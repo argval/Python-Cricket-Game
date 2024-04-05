@@ -19,4 +19,6 @@ Now that's a challenging question. Well here's the basic layout:
 8. This game will be played in a turn-based format. The batting team will bat first, followed by the bowling team. So basically, two innings.
 9. The team with the most runs at the end of the game wins.
 
+And that's basically my idea of representing Cricket in Python. In the future, I would like to improvise this by adding more laws and stuff umpiring decisions, possibly a GUI as well😳
+This project marks the beginning of my coding journey!
 Enjoy the game!!
