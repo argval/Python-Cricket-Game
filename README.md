@@ -18,3 +18,5 @@ Now that's a challenging question. Well here's the basic layout:
 7. The aim of the batting team is to score as many runs as possible. The aim of the bowling team is to get the batting team out as quickly as possible.
 8. This game will be played in a turn-based format. The batting team will bat first, followed by the bowling team. So basically, two innings.
 9. The team with the most runs at the end of the game wins.
+
+Enjoy the game!!
